@@ -1,11 +1,12 @@
 title: Khanh Thuy Mai Nguyen # your name (or website title) here
-logo: "/images/BDayPhoto.png?raw=true" # your photo (or logo) here
+avatar: "/images/BDayPhoto.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   ML/Stats major at Minerva Schools. I speak Python, Pytorch, and Tensorflow.  
   <br><br>
   Passionate about self-driving car, sustainable social impact, and ovo-lacto vegetarianism. 
   <br><br>
-  <a href="https://www.linkedin.com/in/khanh-thuy-mai-nguyen/">Visit My LinkedIn Profile</a> 
-  
+#  <a href="https://www.linkedin.com/in/khanh-thuy-mai-nguyen/">LinkedIn</a> 
+  github: "khanhthuymainguyen"
+  linkedin: "khanhthuymainguyen" 
 theme: jekyll-theme-dinky
 google_analytics: UA-158657909-1 # your Google Analytics tracking ID here
